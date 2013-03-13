@@ -44,9 +44,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\DriveGUI.cs" />
      <Compile Include="Assets\RobotScript.cs" />
      <Compile Include="Assets\SystemSelector.cs" />
+     <Compile Include="Assets\XGUI.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
